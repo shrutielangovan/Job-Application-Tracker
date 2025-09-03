@@ -1,4 +1,4 @@
-# Job Application Email Tracker
+# Job Application Tracker
 
 ## Overview
 
