@@ -69,7 +69,7 @@ AI: OpenAI GPT models
 Data Storage: CSV (with potential database upgrade)
 Scheduling: Cron jobs 
 
-##Getting Started
+## Getting Started
 
 1. Set up Gmail API credentials and OAuth2 authentication
 2. Configure OpenAI API access
